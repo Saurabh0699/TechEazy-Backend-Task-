@@ -7,3 +7,5 @@ I have done all task as well as Student & Subject can be add,update,detele and p
 To use this API user or admin have to register themself as their Role for login and access the data and perform their task.
 A Student can enroll in multiple Subjects. This is typically implemented using a many-to-many relationship.
 JWT Authentication: Ensure that your security configuration correctly handles JWT-based authentication.
+
+For the help to run it properly I have already uploaded Json file above So if you find any problem/issue to run or perform testing please get reference from that file.
